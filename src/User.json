@@ -1,0 +1,60 @@
+{
+    "usersImfo": [
+        {
+            "firstName": "Raja",
+            "lastName": "Raula",
+            "age": 23,
+            "phNumber": 9988456321,
+            "city": "Hyderabad"
+        },
+        {
+            "firstName": "Himansu",
+            "lastName": "Sethy",
+            "age": 22,
+            "phNumber": 7988456321,
+            "city": "Kolkata"
+        },
+        {
+            "firstName": "SauPrakash",
+            "lastName": "Sethy",
+            "age": 22,
+            "phNumber": 6308456321,
+            "city": "Koraput"
+        },
+        {
+            "firstName": "Atish",
+            "lastName": "choudhary",
+            "age": 23,
+            "phNumber": 7788456321,
+            "city": "Bangalore"
+        },
+        {
+            "firstName": "Ramesh",
+            "lastName": "Panda",
+            "age": 24,
+            "phNumber": 9961546321,
+            "city": "Hyderabad"
+        },
+        {
+            "firstName": "Abinash",
+            "lastName": "Gouda",
+            "age": 22,
+            "phNumber": 7987555621,
+            "city": "Hyderabad"
+        },
+        {
+            "firstName": "Ajit",
+            "lastName": "Behera",
+            "age": 22,
+            "phNumber": 9118456321,
+            "city": "Hyderabad"
+        },
+        {
+            "firstName": "Inderjit",
+            "lastName": "Gupta",
+            "age": 25,
+            "phNumber": 9987156321,
+            "city": "Indor"
+        }
+    ]
+}
