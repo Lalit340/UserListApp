@@ -1,5 +1,5 @@
 {
-    "usersImfo": [
+    "usersInfo": [
         {
             "firstName": "Raja",
             "lastName": "Raula",
@@ -15,7 +15,7 @@
             "city": "Kolkata"
         },
         {
-            "firstName": "SauPrakash",
+            "firstName": "SaiPrakash",
             "lastName": "Sethy",
             "age": 22,
             "phNumber": 6308456321,
